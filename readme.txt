@@ -1,7 +1,8 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick.
-Creating a new branch is quick and simple.
-Switched to a new branch 'dev'
+#学习计划
+<br/>
+##这学期一定要学会Python
+---
+目前Python学习进度还算可以，希望自己继续努力  
+能够从Github中汲取更多的营养吧！
+
+*加油！！*
