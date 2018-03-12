@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bba08f53-9668-4b34-8585-52df1ae549b6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Debug2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Debugger.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="bba08f53-9668-4b34-8585-52df1ae549b6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,21 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Debugger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Debugger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Debug2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Debug2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="487">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -119,7 +105,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Debugger">
+  <component name="RunManager" selected="Python.Debug2">
+    <configuration name="Debug2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Advanced" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Debug2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Debugger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,24 +191,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Advanced" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inherit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="object" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Advanced" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,19 +302,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.object" />
-      <item index="1" class="java.lang.String" itemvalue="Python.inherit" />
-      <item index="2" class="java.lang.String" itemvalue="Python.type" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ad-object" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Debugger" />
+      <item index="0" class="java.lang.String" itemvalue="Python.inherit" />
+      <item index="1" class="java.lang.String" itemvalue="Python.type" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ad-object" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Debugger" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Debug2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Debugger" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ad-object" />
-        <item index="2" class="java.lang.String" itemvalue="Python.type" />
-        <item index="3" class="java.lang.String" itemvalue="Python.inherit" />
-        <item index="4" class="java.lang.String" itemvalue="Python.object" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Debug2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Debugger" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ad-object" />
+        <item index="3" class="java.lang.String" itemvalue="Python.type" />
+        <item index="4" class="java.lang.String" itemvalue="Python.inherit" />
       </list>
     </recent_temporary>
   </component>
@@ -440,8 +426,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Debug2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="487">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
