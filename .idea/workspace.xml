@@ -11,8 +11,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Processes and threads.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Processes and threads.py">
+      <file leaf-file-name="Processes and threads 2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Processes and threads 2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -46,6 +46,7 @@
         <option value="$PROJECT_DIR$/Debug2.py" />
         <option value="$PROJECT_DIR$/IO Learning.py" />
         <option value="$PROJECT_DIR$/Processes and threads.py" />
+        <option value="$PROJECT_DIR$/Processes and threads 2.py" />
       </list>
     </option>
   </component>
@@ -88,7 +89,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -103,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IO Learning">
+  <component name="RunManager" selected="Python.Processes and threads">
     <configuration name="Debug2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,6 +159,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Processes and threads" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Advanced" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Processes and threads.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,24 +208,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Advanced" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ad-object.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="type" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Advanced" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,19 +301,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.type" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ad-object" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Debugger" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Debug2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.IO Learning" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ad-object" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Debugger" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Debug2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.IO Learning" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Processes and threads" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.IO Learning" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Debug2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Debugger" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ad-object" />
-        <item index="4" class="java.lang.String" itemvalue="Python.type" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Processes and threads" />
+        <item index="1" class="java.lang.String" itemvalue="Python.IO Learning" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Debug2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Debugger" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ad-object" />
       </list>
     </recent_temporary>
   </component>
@@ -458,6 +459,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Processes and threads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="104" column="16" lean-forward="false" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Processes and threads 2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
